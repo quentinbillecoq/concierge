@@ -1,9 +1,8 @@
-Commandes : 
-    ✔️ uptime => secondes : Récupère l'uptime de l'host (Windows & Linux)
-    ✔️ load => load1 load5 load15 : Récupère le load de l'host (Linux)
-    ✔️ memory => PlatformMemory 
-    ❌ 
-    ❌ 
-    ❌ 
-    ❌ 
-    ✔️ exit : Ferme la connexion TCP
+### Liste des commandes : 
+
+| Commande | Description | Linux | Windows |
+| :---------------: | :---------------: | :---------------: | :-----: |
+| uptime | Uptime de l'hôte | ✔️ | ✔️ |
+| load | Load average de l'hôte | ✔️ | ❌ |
+| memory | Utilsation de la mémoire de l'hôte | ✔️ | ✔️ |
+| exit | Ferme la connexion TCP | ✔️ | ✔️ |
