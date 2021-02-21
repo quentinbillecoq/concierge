@@ -6,3 +6,7 @@ edition = "2018"
 
 [dependencies]
 systemstat = "0.1.7"
+serde = {version = "1.0", features = ["derive"]}
+serde_json = {version = "1.0"}
+serde_derive = "1.0.123"
+regex = "1"

@@ -11,6 +11,7 @@ Description
 | uptime | Uptime de l'hôte | ✔️ | ✔️ |
 | load | Load average de l'hôte | ✔️ | ❌ |
 | memory | Utilsation de la mémoire de l'hôte | ✔️ | ✔️ |
+| mounts | Liste des points de montage | ✔️ | ✔️ |
 | exit | Ferme la connexion TCP | ✔️ | ✔️ |
 
 
