@@ -1,6 +1,10 @@
 # Concierge
 
-## Liste des commandes : 
+Description
+
+    Version : 0.1.0
+
+# Liste des commandes : 
 
 | Commande | Description | Linux | Windows |
 | :---------------: | :---------------: | :---------------: | :-----: |
@@ -8,3 +12,16 @@
 | load | Load average de l'hôte | ✔️ | ❌ |
 | memory | Utilsation de la mémoire de l'hôte | ✔️ | ✔️ |
 | exit | Ferme la connexion TCP | ✔️ | ✔️ |
+
+
+
+# Format de réponse
+```json
+{
+    "status": "ok",
+    "data": "data"
+}
+```
+
+# Liste des données de réponse
+## uptime
