@@ -6,7 +6,7 @@ Description
 
 # Liste des commandes : 
 
-✔️ = disponible | ❌ = non compatible | 🔁 = Non disponible mais prévu
+✔️ = Disponible | ❌ = Non compatible | 🔁 = Non disponible mais prévu
 
 | Commande | Description | Linux | Windows |
 | :---------------: | :---------------: | :---------------: | :-----: |
